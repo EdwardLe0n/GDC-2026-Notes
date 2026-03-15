@@ -1,4 +1,4 @@
-# Uplifting Latine Game Devs
+# Uplifting Latine Game Devs Here, There, and Everywhere (Presented by the IGDA)
 
 ```
 By:
@@ -6,9 +6,10 @@ By:
 Elaine Gomez
 
 Credentials:
-- Midnight Hour Games
+- Creative Director @ Midnight Hour Games
 - Iron Root Games
 
+Also more members from the LatinX in Gaming Team! 
 ```
 
 ### Before Reading:
