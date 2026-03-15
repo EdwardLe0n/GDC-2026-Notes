@@ -32,6 +32,9 @@ That being said, if you have the time, please do check out all the work that the
 #### Monday
 
 1. [Uplifting Latine Game Devs](./upliftingLatineGameDevs.md)
+2. [Six Figures in 30 Days (Kickstarter talk)](./sixFigsIn30Days.md)
+3. [Clair Obscur: Delivering When you Only Have Four Programmers](./clairObscur.md)
+4. [Game Designers Notebook](./gameDesignersNotebook.md)
 
 #### Tuesday
 
@@ -47,6 +50,7 @@ That being said, if you have the time, please do check out all the work that the
 
 - [Community](#community)
 - [Funding](#funding)
+- [Game Development/Design](#game-developmentdesign)
 
 #### Community
 
@@ -54,6 +58,12 @@ That being said, if you have the time, please do check out all the work that the
 
 #### Funding
 
+- [Six Figures in 30 Days (Kickstarter talk)](./sixFigsIn30Days.md)
+
+#### Game Development/Design
+
+- [Clair Obscur: Delivering When you Only Have Four Programmers](./clairObscur.md)
+- [Game Designers Notebook](./gameDesignersNotebook.md)
 
 
 ---

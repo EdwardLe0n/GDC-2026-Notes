@@ -5,6 +5,9 @@ By:
 
 Some Person
 
+Credentials:
+-
+
 ```
 
 ### Before Reading:
