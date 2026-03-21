@@ -10,6 +10,12 @@ Quick links for ya speedsters:
 
 ---
 
+```
+Note!
+
+I'm still digitizing all my notes (currently @ %10 completion...), so feel free to star this repository & come back later!
+```
+
 ## Intro
 
 So, hey y'all! My name is Edward Leon, and I was the lucky few that was able to attend GDC this time around (2026).
@@ -78,4 +84,30 @@ So uh, thanks for going all the way to the bottom of the page!
 
 If you like this whole repository and want to show support, feel free to do so through any of these channels!
 
-- Will add things here later
+#### Social Media:
+
+I'm currently only on Instagram and YouTube, which can be found...
+
+- [Here for Instagram...](https://www.instagram.com/i_got_boredddd/)
+- [... and here for YouTube!](https://www.youtube.com/@I_Got_Boredddd)
+
+##### I'm also with a game dev group...
+
+So if you could support us on these platforms, then that'd be great!
+
+- [Here for the From the Fridge Games Instagram!](https://www.instagram.com/fromthefridgegames/)
+- [Here for the From the Fridge Games Youtube!](https://www.youtube.com/@FromTheFridgeGames)
+
+#### Kofi:
+
+I must note that do you note that you absolutely do not need to donate and would only do so if you have disposable income!!!
+
+With that being said...
+
+- [Here's the link to the kofi!](https://ko-fi.com/i_got_boredddd)
+
+#### And finally, a linktree
+
+For miscallaneous links and more projects, check this out!
+
+- [This is the link tree link!](https://linktr.ee/i_got_boredddd)
